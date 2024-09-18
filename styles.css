@@ -59,7 +59,7 @@ body {
   
   
   /* DOWN ARROW */
-  
+  #btt {
     width: 60px;
     border: solid 4px white;
     border-radius: 40px;
